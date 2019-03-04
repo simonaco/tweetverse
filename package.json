@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/simonaco/tweetverse/issues"
   },
-  "homepage": "https://github.com/simonaco/tweetverse#readme"
+  "homepage": "https://github.com/simonaco/tweetverse#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
