@@ -22,6 +22,6 @@ steps:
   - task: AzureRmWebAppDeployment@4
     displayName: 'Deploy Azure App Service'
     inputs:
-      azureSubscription: 'tweetverse'
-      appType: 'functionApp'
-      WebAppName: 'tweetverse'
+      azureSubscription: '$(Parameters.ConnectedServiceName)'
+      appType: 'functionapp'
+      WebAppName: '$(Parameters.WebAppName)'
