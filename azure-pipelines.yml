@@ -13,8 +13,12 @@ steps:
     inputs:
       rootFolderOrFile: '$(System.DefaultWorkingDirectory)'
       includeRootFolder: false
+      archiveFile: '$(System.DefaultWorkingDirectory)/$(Build.BuildId).zip'
   - task: PublishBuildArtifacts@1
     displayName: 'Publish files'
+    inputs:
+      PathtoPublish: '$(System.DefaultWorkingDirectory)'
+      name: 'drop'
   - task: AzureRmWebAppDeployment@4
     displayName: 'Deploy Azure App Service'
     inputs:
