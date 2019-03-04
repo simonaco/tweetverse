@@ -15,3 +15,9 @@ steps:
       includeRootFolder: false
   - task: PublishBuildArtifacts@1
     displayName: 'Publish files'
+  - task: AzureRmWebAppDeployment@4
+    displayName: 'Deploy Azure App Service'
+    inputs:
+      azureSubscription: 'tweetverse'
+      appType: 'functionApp'
+      WebAppName: 'tweetverse'
