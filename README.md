@@ -18,7 +18,7 @@
 
 ## How to run this
 
-1. Clone this repository and cd into *reddit-api*
+1. Clone this repository and cd into *tweetverse*
 
 1. Create *local.settings.json* file and add:
 
