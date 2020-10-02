@@ -1,8 +1,8 @@
-# Tweetverse | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.tweetverse?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=20&branchName=master)
+# Tweetverse | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.tweetverse?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=20&branchName=master&WT.mc_id=tweetverse-github-sicotin)
 
 ## Deploy resources
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Ftweetverse%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/?WT.mc_id=tweetverse-github-sicotin#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Ftweetverse%2Fmaster%2Fazuredeploy.json)
 
 ## Prerequisites
 
