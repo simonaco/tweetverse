@@ -1,4 +1,4 @@
-# Tweetverse | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.tweetverse?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=20&branchName=master&WT.mc_id=tweetverse-github-sicotin)
+# Tweetverse | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.tweetverse?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=20&branchName=master)
 
 ## Deploy resources
 
